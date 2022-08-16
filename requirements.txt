@@ -1,0 +1,11 @@
+pytorch
+pandas
+numpy
+tensorboard
+tensorboardx
+scikit-learn
+torch_geometric
+torch_scatter
+torch-sparse
+biopython
+rdkit
